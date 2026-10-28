@@ -1,0 +1,43 @@
+{"W":1425,"secs":[
+{"h":809,"bg":"","items":[
+{"k":"t","r":[248.5,326,610,112],"b":[["h1","s40","","<span style=\"background:rgb(255, 255, 255)\">Deutsche Bank - digitalizing account openings</span>",""]]},
+{"k":"t","r":[248.5,452,496,50.5],"b":[["h1","p18","","<span style=\"background:rgb(255, 255, 255)\">Transforming the account opening process for Business clients to enable quick mass adoption</span>",""]]},
+{"k":"i","r":[222.5,6,980,730],"id":"4bb554_fe7ae37ddba0440bb8292de5627be14f","alt":"Deutsche Bank account opening on mobile","c":[0,379,1275,950]}]},
+{"h":510,"bg":"","items":[
+{"k":"t","r":[248.5,0,68,39],"b":[["h6","s14","","Project overview",""]]},
+{"k":"t","r":[333.5,0,162,33.5],"b":[["h6","s24","","My role",""]]},
+{"k":"t","r":[321.5,48,263,25],"b":[["ul","p18","",["Full-stack design lead"]]]},
+{"k":"t","r":[618.5,0,162,33.5],"b":[["h6","s24","","Tasks",""]]},
+{"k":"t","r":[602.5,48,352,89.5],"b":[["ul","p18","",["Product research","Requirement building","UX/UI design","Service design for further applications"]]]},
+{"k":"t","r":[339.5,199.5,162,33.5],"b":[["h6","s24","","Challenge",""]]},
+{"k":"t","r":[339.5,255,863,126],"b":[["p","p18","","Deutsche Bank found itself unable to provide new accounts for thousands of new customers due to its reliance on traditional processes and to solve this, it required the full digitalization of it. That didn't mean to just have an online form to fill, though, as it wanted to make this first experience with a Deutsche Bank product the best one possible. And in the heavily regulated financial market, the true challenge is to make its complexity understandable and its requirements quickly and easily met.",""]]},
+{"k":"s","r":[-68.5,8,284,7]}]},
+{"h":654,"bg":"","items":[
+{"k":"t","r":[248.5,11,73,19.5],"b":[["h6","s14","","Research",""]]},
+{"k":"t","r":[339.5,11,361,67],"b":[["h6","s24","","Creating a short &amp; sweet journey",""]]},
+{"k":"t","r":[339.5,119,841,75.5],"b":[["h6","p18","","The biggest hurdle to opening this particular business account type was the amount of documents, consent, and validation that were necessary in the process. Solving it began with identifying the different steps required, eliminating overlapping requirements, and ordering them in more friendly natural way.",""]]},
+{"k":"i","r":[339.5,236,720,299],"id":"4bb554_a562d100106047cdac0b9954663445a4","alt":"","c":[0,10,7107,2956]},
+{"k":"s","r":[-68.5,20,284,7]}]},
+{"h":2200,"bg":"","items":[
+{"k":"t","r":[876.5,207,279,84],"b":[["h2","s30","","Business-friendly and clear",""]]},
+{"k":"t","r":[785.5,207,279,19.5],"b":[["h6","s14","","Design",""]]},
+{"k":"t","r":[876.5,310,272,252],"b":[["p","p18","","The color-coding, despite being very strict in maintaining the Deutsche Bank branding, was made playful and distinguished, bringing the user attention to what is necessary.",""],["p","p18","","Above all, it is the way in which information is arranged that guides the eye and sets the pace of the experience.",""]]},
+{"k":"t","r":[270.5,1168,360,84],"b":[["h2","s30","","Attention to the mobile experience",""]]},
+{"k":"t","r":[270.5,1277,523,151],"b":[["p","p18","","One of the great quality-measuring sticks in this project was the mobile experience. It was another high post goal to be achieved: same quality of experience, without customizations necessary. Bringing the same content of the desktop version, the mobile pages made it even more important for the information structure to be as clear, flexible, and robust as possible.",""]]},
+{"k":"i","r":[324.5,0,433,438],"id":"4bb554_59e787a5667d4b8e9b47a1cdc04153be","alt":"","c":[0,0,1440,1457]},
+{"k":"i","r":[235.5,301,433,438],"id":"4bb554_b73dab5c64ef47c091293c69b01b4f46","alt":"","c":[0,0,1440,1456]},
+{"k":"i","r":[413.5,603,433,438],"id":"4bb554_9e522d7ec5e84524a7cebb65ed5d9306","alt":""},
+{"k":"i","r":[334.5,1572,285,571],"id":"4bb554_3f11d1d1e3da4ed8ab3abcb59faef08a","alt":"","c":[0,0,990,1984]},
+{"k":"i","r":[632.5,1435,285,571],"id":"4bb554_7498d1b83c4e4ce882609027f3f5f433","alt":"","c":[21,0,990,1984]},
+{"k":"i","r":[917.5,1132,285,571],"id":"4bb554_415c2a6a72d641feacfcdb5cb0b9b64e","alt":"","c":[21,0,990,1984]},
+{"k":"s","r":[1211.5,213,433,7]}]},
+{"h":1386,"bg":"","items":[
+{"k":"t","r":[251.5,18,73,19.5],"b":[["h6","s14","","Extra bit",""]]},
+{"k":"t","r":[342.5,18,361,67],"b":[["h6","s24","","Design thinking for next-level asset management",""]]},
+{"k":"t","r":[342.5,112,625,126],"b":[["h6","p18","","In researching for the onboarding platform, we talked with many account managers from the client side who gave us great insight to the issues that happen <span style=\"font-style:italic\">after</span> the account is opened. So when given this information, our stakeholders wanted to explore how to address them and create a next-level banking experience in asset management for their new clients.",""]]},
+{"k":"t","r":[342.5,678,625,25],"b":[["h6","p18","","Key insight",""]]},
+{"k":"t","r":[342.5,726,650,126],"b":[["h6","s30","","The client-bank relationship paradigm is often to „find the clients to its products“ and not to „find the products to its clients“",""]]},
+{"k":"i","r":[342.5,265,650,331],"id":"4bb554_13b8d5037036407c8da7cbd5b7058437","alt":""},
+{"k":"slider","r":[230.5,909,972,422.5],"slides":[{"id":"4bb554_056f2e2f28d3448e819a32692a1e5b17","w":802,"h":423,"alt":"Returning to the issues: how five issues map to the themes and ideations"},{"id":"4bb554_c4f74dcea0c341dd9b911cc0afecb93d","w":875,"h":423,"alt":"Themes discovered: ideations grouped under eight themes"}]},
+{"k":"s","r":[-70.5,27,284,7]}]}
+]}

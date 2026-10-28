@@ -1,0 +1,220 @@
+{
+"W": 1425,
+"secs": [
+{
+"h": 210,
+"bg": "",
+"items": [
+{
+"k": "t",
+"r": [
+145,
+31,
+675,
+50
+],
+"b": [
+[
+"h1",
+"s40n",
+"",
+"In the spotlight",
+""
+]
+]
+},
+{
+"k": "t",
+"r": [
+145,
+101,
+675,
+30.5
+],
+"b": [
+[
+"p",
+"p18l",
+"",
+"My contributions to design discussions through various platforms.",
+""
+]
+]
+}
+]
+},
+{
+"h": 558,
+"bg": "",
+"items": [
+{
+"k": "i",
+"r": [
+602.5,
+80,
+600,
+383
+],
+"id": "4bb554_0aca17be1d5a47baa5d1e7d10c1bbf8b",
+"alt": "Pulse Time 2.0 interview on YouTube",
+"href": "https://youtu.be/JfSIUpT5EA0?si=sULEPMYJaOaWHVsm",
+"fx": "shadow",
+"badge": {
+"id": "4bb554_0fc8df7d29f44353b2726fe67caf5c86",
+"r": [
+534.5,
+377,
+159,
+159
+]
+}
+},
+{
+"k": "t",
+"r": [
+223.5,
+155,
+231,
+84
+],
+"b": [
+[
+"h2",
+"s30",
+"",
+"Pulse Time 2.0 interview",
+""
+]
+]
+},
+{
+"k": "t",
+"r": [
+222.5,
+267,
+272,
+122.5
+],
+"b": [
+[
+"p",
+"p18l",
+"",
+"A few thoughts on design team management, full-stack design topics, and the impact of AI in the workplace and workflow.",
+""
+]
+]
+}
+]
+},
+{
+"h": 535,
+"bg": "",
+"items": [
+{
+"k": "i",
+"r": [
+222.5,
+88,
+600,
+353
+],
+"id": "4bb554_25e152d8b71348d3b8f8ed39283d1a35",
+"alt": "Building agreement presentation",
+"fx": "shadow"
+},
+{
+"k": "t",
+"r": [
+902.5,
+142,
+168,
+84
+],
+"b": [
+[
+"h2",
+"s30",
+"",
+"Building agreement",
+""
+]
+]
+},
+{
+"k": "t",
+"r": [
+902.5,
+266,
+272,
+122.5
+],
+"b": [
+[
+"p",
+"p18l",
+"",
+"A UX Meetup presentation on lessons learned about solving decision-making problems in large product projects.",
+""
+]
+]
+}
+]
+},
+{
+"h": 535,
+"bg": "",
+"items": [
+{
+"k": "i",
+"r": [
+602.5,
+91,
+600,
+353
+],
+"id": "4bb554_f9129ac5bb0d4f89bf1e217f793eff24",
+"alt": "DEV Challenge 2022",
+"href": "https://www.devchallenge.it/",
+"fx": "shadow"
+},
+{
+"k": "t",
+"r": [
+222.5,
+145,
+261,
+126
+],
+"b": [
+[
+"h2",
+"s30",
+"",
+"Judge at<br>DEV Challenge<br>2022",
+""
+]
+]
+},
+{
+"k": "t",
+"r": [
+222.5,
+310,
+272,
+92
+],
+"b": [
+[
+"p",
+"p18l",
+"",
+"It was a lot of fun to participate as a UI Design Judge in Europe's largest IT competition.",
+""
+]
+]
+}
+]
+}
+]
+}

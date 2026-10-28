@@ -1,0 +1,8 @@
+# working leftovers that should not be published
+.DS_Store
+_images.zip
+_fonts.zip
+_test/
+_tmp_fonts/
+_to_delete/
+node_modules/
